@@ -3,3 +3,6 @@
 ################################################################################
 
 /CltTelegram/bin/Debug
+/CltTelegram/obj/Debug
+/Libs/bin/Debug
+/Libs/obj/Debug
